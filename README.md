@@ -1,2 +1,13 @@
-# oil-painting-portfolio
-A modern, responsive portfolio website built with React, Tailwind CSS, and Vite to showcase the oil paintings of Angela Hurt. The site highlights original artwork, provides an easy way to connect with collectors, and includes a simple e-commerce shop for purchasing art.
+# Angela Hurt - Oil Painting Portfolio
+
+Personal website built with **React, Vite, and Tailwind CSS**, deployed on **Netlify**.
+
+## 🚀 Scripts
+- `npm run dev` → Start local dev server
+- `npm run build` → Build for production
+- `npm run preview` → Preview build locally
+
+## 🌐 Deployment
+Netlify Build Command: `npm run build`  
+Netlify Publish Directory: `dist`  
+
